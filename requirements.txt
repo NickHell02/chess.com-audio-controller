@@ -1,0 +1,8 @@
+SpeechRecognition
+PyAudio
+opencv-python
+Pillow
+pyautogui
+mss
+selenium
+pyttsx3
